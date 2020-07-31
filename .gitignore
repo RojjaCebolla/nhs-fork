@@ -1,8 +1,9 @@
 *~
 *.gif
 *.swp
-legacy/cfg/auth.json
-legacy/cfg/nhdb_def.json
+feeder/cfg/auth.json
+feeder/cfg/nhdb_def.json
+feeder/my-env
 mojo/cfg/auth.json
 mojo/cfg/nhdb_def.json
 mojo/cfg/nethackstats.json
